@@ -1,0 +1,12 @@
+[
+  {
+    "package": "mulea",
+    "url": "https://github.com/ELTEbioinformatics/mulea",
+    "branch" : "*release"
+  },
+  {
+    "package": "webseq",
+    "url": "https://github.com/stitam/webseq",
+    "branch" : "*release"
+  },
+]
